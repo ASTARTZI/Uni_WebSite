@@ -1,0 +1,10 @@
+*Το link για να φαίνεται σαν δυναμική ιστοσελίδα*
+
+https://mastartzi.webpages.auth.gr/4328partB/
+
+*Για ανέβασμα στο github*
+
+git add .
+git commit -m "update project"
+git push
+
